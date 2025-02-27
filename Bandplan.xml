@@ -193,7 +193,7 @@
   <RangeEntry minFrequency="75200000" maxFrequency="75400000" color="70648BC0" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR</RangeEntry>
   <RangeEntry minFrequency="75400000" maxFrequency="76975000" color="A0A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR</RangeEntry>
   <RangeEntry minFrequency="76975000" maxFrequency="87500000" color="90A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), BMIS, PMR/PAMR, Ovládání akustických majáčků pro nevidomé (SRD)</RangeEntry>
-  <RangeEntry minFrequency="87500000" maxFrequency="108000000" color="900000FF" mode="WFM" step="50000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Rozhlas FM</RangeEntry>
+  <RangeEntry minFrequency="87500000" maxFrequency="108000000" color="900000FF" mode="WFM" step="50000">Rozhlas FM, Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD)</RangeEntry>
   <RangeEntry minFrequency="108000000" maxFrequency="117975000" color="9000FFFF" mode="WFM" step="100000">Radary GPR/WPR (SRD), ILS, VOR, Letecké aplikace</RangeEntry>
   <RangeEntry minFrequency="117975000" maxFrequency="132000000" color="9000FFFF" mode="NFM" step="100000">SAR (komunikace), Letecké komunikace, Radary GPR/WPR (SRD), Letecké aplikace, Operační komunikace OCC, Spojení na ploše letiště</RangeEntry>
   <RangeEntry minFrequency="132000000" maxFrequency="137000000" color="9000FFFF" mode="NFM" step="100000">Letecké komunikace, Radary GPR/WPR (SRD), Letecké aplikace</RangeEntry>
