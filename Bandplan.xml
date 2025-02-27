@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRangeEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RangeEntry minFrequency="526500" maxFrequency="1300000" color="900000FF" mode="AM" step="3000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1300000" maxFrequency="1606500" color="900000FF" mode="AM" step="3000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="1606500" maxFrequency="1625000" color="707FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="1625000" maxFrequency="1635000" color="A07FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="1635000" maxFrequency="1715000" color="907FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="1715000" maxFrequency="2000000" color="A0C40111" mode="CW" step="3000">HAM 160m Ham Band)</RangeEntry>
+  <RangeEntry minFrequency="2000000" maxFrequency="2025000" color="707FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2025000" maxFrequency="2045000" color="A07FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2045000" maxFrequency="2160000" color="907FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2160000" maxFrequency="2170000" color="807FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2170000" maxFrequency="2173500" color="707FF464" mode="AM" step="3000"></RangeEntry>
+  <RangeEntry minFrequency="2173500" maxFrequency="2190500" color="90000080" mode="NFM" step="3000">GMDSS, DSC, SAR (komunikace)</RangeEntry>
+  <RangeEntry minFrequency="2190500" maxFrequency="2194000" color="907FF464" mode="AM" step="3000"></RangeEntry>
+  <RangeEntry minFrequency="2194000" maxFrequency="2300000" color="807FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2300000" maxFrequency="2498000" color="707FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2498000" maxFrequency="2501000" color="A07FF464" mode="AM" step="3000"></RangeEntry>
+  <RangeEntry minFrequency="2501000" maxFrequency="2502000" color="907FF464" mode="AM" step="3000"></RangeEntry>
+  <RangeEntry minFrequency="2502000" maxFrequency="2625000" color="807FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2625000" maxFrequency="2650000" color="707FF464" mode="AM" step="3000"></RangeEntry>
+  <RangeEntry minFrequency="2650000" maxFrequency="2850000" color="A07FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="2850000" maxFrequency="3025000" color="907FF464" mode="AM" step="3000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3025000" maxFrequency="3155000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3155000" maxFrequency="3200000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3200000" maxFrequency="3230000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3230000" maxFrequency="3400000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3400000" maxFrequency="3500000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3500000" maxFrequency="3800000" color="A0C40111" mode="AM" step="5000">HAM 80m Ham Band)</RangeEntry>
+  <RangeEntry minFrequency="3800000" maxFrequency="3900000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3900000" maxFrequency="3950000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="3950000" maxFrequency="4000000" color="807FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="4000000" maxFrequency="4063000" color="707FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="4063000" maxFrequency="4123000" color="A07FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="4123000" maxFrequency="4130000" color="90000080" mode="NFM" step="5000">GMDSS, SAR (komunikace)</RangeEntry>
+  <RangeEntry minFrequency="4130000" maxFrequency="4438000" color="90000080" mode="NFM" step="5000">GMDSS, DSC, MSI</RangeEntry>
+  <RangeEntry minFrequency="4438000" maxFrequency="4488000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4488000" maxFrequency="4650000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4650000" maxFrequency="4700000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4700000" maxFrequency="4750000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4750000" maxFrequency="4850000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4850000" maxFrequency="4995000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="4995000" maxFrequency="5003000" color="907FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="5003000" maxFrequency="5005000" color="807FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="5005000" maxFrequency="5060000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5060000" maxFrequency="5250000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5250000" maxFrequency="5275000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5275000" maxFrequency="5351500" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5351500" maxFrequency="5366500" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5366500" maxFrequency="5450000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5450000" maxFrequency="5480000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5480000" maxFrequency="5680000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5680000" maxFrequency="5730000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5730000" maxFrequency="5900000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="5900000" maxFrequency="5950000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="5950000" maxFrequency="6200000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="6200000" maxFrequency="6525000" color="90000080" mode="NFM" step="5000">GMDSS, DSC, MSI</RangeEntry>
+  <RangeEntry minFrequency="6525000" maxFrequency="6685000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="6685000" maxFrequency="6765000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="6765000" maxFrequency="7000000" color="807FF464" mode="AM" step="5000">ISM</RangeEntry>
+  <RangeEntry minFrequency="7000000" maxFrequency="7100000" color="A0C40111" mode="LSB" step="5000">HAM 40m, Družicové amatérské vysílání</RangeEntry>
+  <RangeEntry minFrequency="7100000" maxFrequency="7200000" color="A0C40111" mode="LSB" step="5000">HAM 40m Ham Band)</RangeEntry>
+  <RangeEntry minFrequency="7200000" maxFrequency="7300000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="7300000" maxFrequency="7400000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="7400000" maxFrequency="7450000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="7450000" maxFrequency="8100000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="8100000" maxFrequency="8195000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="8195000" maxFrequency="8815000" color="90000080" mode="NFM" step="5000">GMDSS, DSC, SAR (komunikace), MSI</RangeEntry>
+  <RangeEntry minFrequency="8815000" maxFrequency="8965000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="8965000" maxFrequency="9040000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="9040000" maxFrequency="9305000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="9305000" maxFrequency="9355000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="9355000" maxFrequency="9400000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="9400000" maxFrequency="9500000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="9500000" maxFrequency="9775000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="9775000" maxFrequency="9900000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="9900000" maxFrequency="9995000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="9995000" maxFrequency="10003000" color="A07FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="10003000" maxFrequency="10005000" color="907FF464" mode="AM" step="5000">SAR (komunikace)</RangeEntry>
+  <RangeEntry minFrequency="10005000" maxFrequency="10100000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="10100000" maxFrequency="10150000" color="A0C40111" mode="USB" step="5000">HAM 30m Ham Band)</RangeEntry>
+  <RangeEntry minFrequency="10150000" maxFrequency="11175000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="11175000" maxFrequency="11275000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="11275000" maxFrequency="11400000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="11400000" maxFrequency="11600000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="11600000" maxFrequency="11650000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="11650000" maxFrequency="12050000" color="900000FF" mode="AM" step="5000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="12050000" maxFrequency="12100000" color="900000FF" mode="AM" step="5000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="12100000" maxFrequency="12230000" color="707FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="12230000" maxFrequency="13200000" color="90000080" mode="NFM" step="5000">RFID (SRD), GMDSS, DSC, MSI</RangeEntry>
+  <RangeEntry minFrequency="13200000" maxFrequency="13260000" color="907FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13260000" maxFrequency="13360000" color="807FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13360000" maxFrequency="13410000" color="707FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13410000" maxFrequency="13450000" color="A07FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13450000" maxFrequency="13550000" color="907FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13550000" maxFrequency="13570000" color="807FF464" mode="AM" step="5000">RFID (SRD), ISM, Ovládání modelů, Nespecifikované SRD</RangeEntry>
+  <RangeEntry minFrequency="13570000" maxFrequency="13600000" color="900000FF" mode="AM" step="5000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13600000" maxFrequency="13800000" color="900000FF" mode="AM" step="5000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13800000" maxFrequency="13870000" color="900000FF" mode="AM" step="5000">Rozhlas AM, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="13870000" maxFrequency="14000000" color="807FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="14000000" maxFrequency="14250000" color="A0C40111" mode="USB" step="5000">HAM 20m, RFID (SRD), Družicové amatérské vysílání</RangeEntry>
+  <RangeEntry minFrequency="14250000" maxFrequency="14350000" color="A0C40111" mode="USB" step="5000">HAM 20m, RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="14350000" maxFrequency="14990000" color="907FF464" mode="AM" step="5000">RFID (SRD)</RangeEntry>
+  <RangeEntry minFrequency="14990000" maxFrequency="15005000" color="807FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="15005000" maxFrequency="15010000" color="707FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="15010000" maxFrequency="15100000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="15100000" maxFrequency="15450000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="15450000" maxFrequency="15600000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="15600000" maxFrequency="15800000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="15800000" maxFrequency="16100000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="16100000" maxFrequency="16200000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="16200000" maxFrequency="16360000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="16360000" maxFrequency="17410000" color="90000080" mode="NFM" step="5000">GMDSS, DSC, SAR (komunikace), MSI</RangeEntry>
+  <RangeEntry minFrequency="17410000" maxFrequency="17480000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="17480000" maxFrequency="17550000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="17550000" maxFrequency="17900000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="17900000" maxFrequency="17970000" color="9000FFFF" mode="AM" step="5000">Letecké komunikace</RangeEntry>
+  <RangeEntry minFrequency="17970000" maxFrequency="18030000" color="9000FFFF" mode="AM" step="5000">Letecké komunikace</RangeEntry>
+  <RangeEntry minFrequency="18030000" maxFrequency="18052000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="18052000" maxFrequency="18068000" color="807FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="18068000" maxFrequency="18168000" color="A0C40111" mode="WFM" step="5000">HAM 17m, Družicové amatérské vysílání</RangeEntry>
+  <RangeEntry minFrequency="18168000" maxFrequency="18780000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="18780000" maxFrequency="18900000" color="907FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="18900000" maxFrequency="19020000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="19020000" maxFrequency="19680000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="19680000" maxFrequency="19800000" color="A07FF464" mode="AM" step="5000">MSI</RangeEntry>
+  <RangeEntry minFrequency="19800000" maxFrequency="19990000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="19990000" maxFrequency="19995000" color="807FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="19995000" maxFrequency="20010000" color="707FF464" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="20010000" maxFrequency="21000000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="21000000" maxFrequency="21450000" color="A0C40111" mode="WFM" step="5000">HAM 15m, Družicové amatérské vysílání</RangeEntry>
+  <RangeEntry minFrequency="21450000" maxFrequency="21850000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="21850000" maxFrequency="21870000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="21870000" maxFrequency="21924000" color="A07FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="21924000" maxFrequency="22000000" color="907FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="22000000" maxFrequency="22855000" color="807FF464" mode="AM" step="5000">MSI</RangeEntry>
+  <RangeEntry minFrequency="22855000" maxFrequency="23000000" color="707FF464" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="23000000" maxFrequency="23200000" color="A03183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="23200000" maxFrequency="23350000" color="903183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="23350000" maxFrequency="24000000" color="803183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="24000000" maxFrequency="24450000" color="703183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="24450000" maxFrequency="24600000" color="A03183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="24600000" maxFrequency="24890000" color="903183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="24890000" maxFrequency="24990000" color="A0C40111" mode="USB" step="5000">HAM 12m, Družicové amatérské vysílání</RangeEntry>
+  <RangeEntry minFrequency="24990000" maxFrequency="25005000" color="703183F0" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="25005000" maxFrequency="25010000" color="A03183F0" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="25010000" maxFrequency="25070000" color="903183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="25070000" maxFrequency="25210000" color="803183F0" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="25210000" maxFrequency="25550000" color="703183F0" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="25550000" maxFrequency="25670000" color="A03183F0" mode="AM" step="5000"></RangeEntry>
+  <RangeEntry minFrequency="25670000" maxFrequency="26100000" color="900000FF" mode="AM" step="5000">Rozhlas AM</RangeEntry>
+  <RangeEntry minFrequency="26100000" maxFrequency="26175000" color="90FF8000" mode="AM" step="5000">MSI</RangeEntry>
+  <RangeEntry minFrequency="26175000" maxFrequency="26200000" color="90FF8000" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="26200000" maxFrequency="26350000" color="90FF8000" mode="AM" step="5000">Necivilní využití</RangeEntry>
+  <RangeEntry minFrequency="26350000" maxFrequency="26957000" color="90648BC0" mode="AM" step="5000">CB</RangeEntry>
+  <RangeEntry minFrequency="26957000" maxFrequency="27405000" color="90648BC0" mode="AM" step="5000">CB, ISM, Ovládání modelů, Nespecifikované SRD</RangeEntry>
+  <RangeEntry minFrequency="27405000" maxFrequency="27500000" color="90648BC0" mode="AM" step="5000">CB, Bezdrátový přenos zvuku (SRD)</RangeEntry>
+  <RangeEntry minFrequency="27500000" maxFrequency="28000000" color="90FF8000" mode="AM" step="5000">Bezdrátový přenos zvuku (SRD), Pohyblivé spoje a sítě, NMR, Paging</RangeEntry>
+  <RangeEntry minFrequency="28000000" maxFrequency="29700000" color="A0C40111" mode="USB" step="5000">HAM 10m, Družicové amatérské vysílání, NMR</RangeEntry>
+  <RangeEntry minFrequency="29700000" maxFrequency="30005000" color="803183F0" mode="AM" step="5000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Lékařské implantáty (SRD)</RangeEntry>
+  <RangeEntry minFrequency="30005000" maxFrequency="30010000" color="70A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Lékařské implantáty (SRD)</RangeEntry>
+  <RangeEntry minFrequency="30010000" maxFrequency="32875000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Lékařské implantáty (SRD)</RangeEntry>
+  <RangeEntry minFrequency="32875000" maxFrequency="35000000" color="90A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Datové a povelové stanice</RangeEntry>
+  <RangeEntry minFrequency="35000000" maxFrequency="37500000" color="A0A58C1C" mode="NFM" step="10000">Bezdrátový přenos zvuku (SRD), Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Ovládání modelů (pouze modely letadel)</RangeEntry>
+  <RangeEntry minFrequency="37500000" maxFrequency="38250000" color="70A58C1C" mode="NFM" step="10000">Bezdrátový přenos zvuku (SRD), Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Radioastronomie</RangeEntry>
+  <RangeEntry minFrequency="38250000" maxFrequency="39000000" color="A0A58C1C" mode="NFM" step="10000">Bezdrátový přenos zvuku (SRD), Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="39000000" maxFrequency="39500000" color="90A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="39500000" maxFrequency="39986000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="39986000" maxFrequency="40020000" color="70A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="40020000" maxFrequency="40980000" color="A0A58C1C" mode="NFM" step="10000">ISM, Ovládání modelů, Nespecifikované SRD, Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="40980000" maxFrequency="41000000" color="90A58C1C" mode="NFM" step="10000">Ovládání modelů, Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="41000000" maxFrequency="41015000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="41015000" maxFrequency="42000000" color="70A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="42000000" maxFrequency="42500000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="42500000" maxFrequency="44000000" color="90A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="44000000" maxFrequency="46000000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="46000000" maxFrequency="47000000" color="70A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Radiolokace (civilní)</RangeEntry>
+  <RangeEntry minFrequency="47000000" maxFrequency="48500000" color="A0A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="48500000" maxFrequency="50000000" color="90A58C1C" mode="NFM" step="10000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="50000000" maxFrequency="50500000" color="A0C40111" mode="WFM" step="50000">HAM 6m, Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Meteo radary, </RangeEntry>
+  <RangeEntry minFrequency="50500000" maxFrequency="52000000" color="A0C40111" mode="WFM" step="50000">HAM 6m, Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Meteo radary, </RangeEntry>
+  <RangeEntry minFrequency="52000000" maxFrequency="56500000" color="A0A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Meteo radary</RangeEntry>
+  <RangeEntry minFrequency="56500000" maxFrequency="58000000" color="90A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD), Pevné spoje</RangeEntry>
+  <RangeEntry minFrequency="58000000" maxFrequency="66000000" color="A0A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, NMR, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="66000000" maxFrequency="67500000" color="70A58C1C" mode="NFM" step="50000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="67500000" maxFrequency="68000000" color="A0648BC0" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), BMIS, PMR/PAMR</RangeEntry>
+  <RangeEntry minFrequency="68000000" maxFrequency="70000000" color="90A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), BMIS, PMR/PAMR</RangeEntry>
+  <RangeEntry minFrequency="70000000" maxFrequency="70450000" color="A0C40111" mode="WFM" step="50000">HAM 2m, Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="70450000" maxFrequency="73000000" color="70A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), BMIS, PMR/PAMR</RangeEntry>
+  <RangeEntry minFrequency="73000000" maxFrequency="74600000" color="A0A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Radioastronomie, PMR/PAMR, PPDR</RangeEntry>
+  <RangeEntry minFrequency="74600000" maxFrequency="74800000" color="90A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, PPDR</RangeEntry>
+  <RangeEntry minFrequency="74800000" maxFrequency="75200000" color="A0A58C1C" mode="NFM" step="50000">Radary GPR/WPR (SRD), ILS</RangeEntry>
+  <RangeEntry minFrequency="75200000" maxFrequency="75400000" color="70648BC0" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR</RangeEntry>
+  <RangeEntry minFrequency="75400000" maxFrequency="76975000" color="A0A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR</RangeEntry>
+  <RangeEntry minFrequency="76975000" maxFrequency="87500000" color="90A58C1C" mode="NFM" step="50000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), BMIS, PMR/PAMR, Ovládání akustických majáčků pro nevidomé (SRD)</RangeEntry>
+  <RangeEntry minFrequency="87500000" maxFrequency="108000000" color="900000FF" mode="WFM" step="50000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Rozhlas FM</RangeEntry>
+  <RangeEntry minFrequency="108000000" maxFrequency="117975000" color="9000FFFF" mode="WFM" step="100000">Radary GPR/WPR (SRD), ILS, VOR, Letecké aplikace</RangeEntry>
+  <RangeEntry minFrequency="117975000" maxFrequency="132000000" color="9000FFFF" mode="NFM" step="100000">SAR (komunikace), Letecké komunikace, Radary GPR/WPR (SRD), Letecké aplikace, Operační komunikace OCC, Spojení na ploše letiště</RangeEntry>
+  <RangeEntry minFrequency="132000000" maxFrequency="137000000" color="9000FFFF" mode="NFM" step="100000">Letecké komunikace, Radary GPR/WPR (SRD), Letecké aplikace</RangeEntry>
+  <RangeEntry minFrequency="137000000" maxFrequency="137025000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), S-PCS</RangeEntry>
+  <RangeEntry minFrequency="137025000" maxFrequency="137175000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecké aplikace, S-PCS</RangeEntry>
+  <RangeEntry minFrequency="137175000" maxFrequency="137825000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecké aplikace, S-PCS</RangeEntry>
+  <RangeEntry minFrequency="137825000" maxFrequency="138000000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecké aplikace, S-PCS</RangeEntry>
+  <RangeEntry minFrequency="138000000" maxFrequency="143600000" color="A0A58C1C" mode="NFM" step="100000">Nespecifikované SRD, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="143600000" maxFrequency="143650000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="143650000" maxFrequency="144000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="144000000" maxFrequency="146000000" color="A0C40111" mode="NFM" step="100000">HAM 2m, Družicové amatérské vysílání, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="146000000" maxFrequency="148000000" color="80648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="148000000" maxFrequency="149900000" color="70648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), S-PCS, PMR pro železnici</RangeEntry>
+  <RangeEntry minFrequency="149900000" maxFrequency="150050000" color="A0648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="150050000" maxFrequency="153000000" color="90648BC0" mode="NFM" step="12500">Pohyblivé spoje a sítě, Paging, Radary GPR/WPR (SRD), PMR/PAMR, PMR pro železnici</RangeEntry>
+  <RangeEntry minFrequency="153000000" maxFrequency="153550000" color="80648BC0" mode="NFM" step="12500">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR pro železnici</RangeEntry>
+  <RangeEntry minFrequency="153550000" maxFrequency="154000000" color="70A58C1C" mode="NFM" step="12500">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR pro železnici</RangeEntry>
+  <RangeEntry minFrequency="154000000" maxFrequency="155500000" color="A0A58C1C" mode="NFM" step="12500">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="155500000" maxFrequency="156487500" color="90A58C1C" mode="NFM" step="12500">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="156487500" maxFrequency="156562500" color="90000080" mode="NFM" step="12500">DSC, Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="156562500" maxFrequency="156762500" color="70DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="156762500" maxFrequency="156787500" color="A0DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), AIS</RangeEntry>
+  <RangeEntry minFrequency="156787500" maxFrequency="156812500" color="90DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="156812500" maxFrequency="156837500" color="80DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), AIS</RangeEntry>
+  <RangeEntry minFrequency="156837500" maxFrequency="157187500" color="70A58C1C" mode="NFM" step="12500">Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="157187500" maxFrequency="157337500" color="A0A58C1C" mode="NFM" step="12500">Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="157337500" maxFrequency="161787500" color="90A58C1C" mode="NFM" step="12500">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="161787500" maxFrequency="161937500" color="A0DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="161937500" maxFrequency="161962500" color="70DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="161962500" maxFrequency="161987500" color="A0DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), AIS</RangeEntry>
+  <RangeEntry minFrequency="161987500" maxFrequency="162012500" color="90DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), Komunikace na vodních cestách</RangeEntry>
+  <RangeEntry minFrequency="162012500" maxFrequency="162037500" color="80DA71E6" mode="NFM" step="12500">Radary GPR/WPR (SRD), AIS</RangeEntry>
+  <RangeEntry minFrequency="162037500" maxFrequency="174000000" color="70A58C1C" mode="NFM" step="12500">Nespecifikované SRD, Bezdrátový přenos zvuku (SRD), Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, Poplachová SRD, Odečty měřičů (SRD), SRD</RangeEntry>
+  <RangeEntry minFrequency="174000000" maxFrequency="223000000" color="80DA71E6" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Bezdrátové mikrofony profesionální, T-DAB+</RangeEntry>
+  <RangeEntry minFrequency="223000000" maxFrequency="230000000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Bezdrátové mikrofony profesionální, T-DAB+</RangeEntry>
+  <RangeEntry minFrequency="230000000" maxFrequency="235000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="235000000" maxFrequency="242950000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="242950000" maxFrequency="243050000" color="A0A58C1C" mode="NFM" step="100000">SAR (komunikace), Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="243050000" maxFrequency="267000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="267000000" maxFrequency="272000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="272000000" maxFrequency="273000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="273000000" maxFrequency="312000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="312000000" maxFrequency="315000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="315000000" maxFrequency="322000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="322000000" maxFrequency="328600000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="328600000" maxFrequency="335400000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), ILS</RangeEntry>
+  <RangeEntry minFrequency="335400000" maxFrequency="380000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="380000000" maxFrequency="382250000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), PPDR</RangeEntry>
+  <RangeEntry minFrequency="382250000" maxFrequency="385000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), PPDR</RangeEntry>
+  <RangeEntry minFrequency="385000000" maxFrequency="387000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="387000000" maxFrequency="390000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="390000000" maxFrequency="395000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), PPDR</RangeEntry>
+  <RangeEntry minFrequency="395000000" maxFrequency="399900000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="399900000" maxFrequency="400050000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="400050000" maxFrequency="400150000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Kmitočtový normál</RangeEntry>
+  <RangeEntry minFrequency="400150000" maxFrequency="401000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pozemské stanice družicové pohyblivé služby, Meteorologické sondy</RangeEntry>
+  <RangeEntry minFrequency="401000000" maxFrequency="402000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Meteorologické sondy</RangeEntry>
+  <RangeEntry minFrequency="402000000" maxFrequency="403000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Meteorologické sondy</RangeEntry>
+  <RangeEntry minFrequency="403000000" maxFrequency="405000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Meteorologické sondy</RangeEntry>
+  <RangeEntry minFrequency="405000000" maxFrequency="406000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Lékařské implantáty (SRD), Meteorologické sondy</RangeEntry>
+  <RangeEntry minFrequency="406000000" maxFrequency="406100000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), EPIRB</RangeEntry>
+  <RangeEntry minFrequency="406100000" maxFrequency="410000000" color="A0A58C1C" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Radioastronomie</RangeEntry>
+  <RangeEntry minFrequency="410000000" maxFrequency="420000000" color="90A58C1C" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Pevné spoje, Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="420000000" maxFrequency="430000000" color="A0DA71E6" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Radiolokace (civilní), Pevné spoje, Mobilní sítě, TETRA</RangeEntry>
+  <RangeEntry minFrequency="430000000" maxFrequency="432000000" color="A0C40111" mode="NFM" step="100000">HAM 430MHz, Radary GPR/WPR (SRD), Radiolokace (civilní), Odečty měřičů (SRD), SRD</RangeEntry>
+  <RangeEntry minFrequency="432000000" maxFrequency="438000000" color="A0C40111" mode="NFM" step="100000">HAM 432MHz, ISM, Družicové amatérské vysílání, Nespecifikované SRD, Radary GPR/WPR (SRD), Radiolokace (civilní), Odečty měřičů (SRD), Aktivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="438000000" maxFrequency="440000000" color="A0C40111" mode="NFM" step="100000">HAM 438MHz, Radary GPR/WPR (SRD), Radiolokace (civilní), Odečty měřičů (SRD)</RangeEntry>
+  <RangeEntry minFrequency="440000000" maxFrequency="448000000" color="A0C40111" mode="NFM" step="100000">PMR 446, Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Radiolokace (civilní)</RangeEntry>
+  <RangeEntry minFrequency="448000000" maxFrequency="450000000" color="70A58C1C" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Radiolokace (civilní), PMR/PAMR, Družicové systémy (civilní), Kosmický výzkum</RangeEntry>
+  <RangeEntry minFrequency="450000000" maxFrequency="455000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), PMR/PAMR, Mobilní sítě, Družicové systémy (civilní), Kosmický výzkum</RangeEntry>
+  <RangeEntry minFrequency="455000000" maxFrequency="456000000" color="90648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), Mobilní sítě, Družicové systémy (civilní)</RangeEntry>
+  <RangeEntry minFrequency="456000000" maxFrequency="459000000" color="80648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, PMR pro železnici</RangeEntry>
+  <RangeEntry minFrequency="459000000" maxFrequency="460000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), PMR/PAMR, Družicové systémy (civilní)</RangeEntry>
+  <RangeEntry minFrequency="460000000" maxFrequency="470000000" color="A0648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD), PMR/PAMR, PMR pro železnici, Mobilní sítě, Družicové systémy (civilní)</RangeEntry>
+  <RangeEntry minFrequency="470000000" maxFrequency="694000000" color="90648BC0" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Meteo radary, DVB-T2, SAP/SAB</RangeEntry>
+  <RangeEntry minFrequency="694000000" maxFrequency="790000000" color="80C40111" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="790000000" maxFrequency="862000000" color="70C40111" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="862000000" maxFrequency="890000000" color="A067D03F" mode="NFM" step="100000">RFID (SRD), Nespecifikované SRD, Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Poplachová SRD, Mobilní sítě, RMR, SRD v datových sítích</RangeEntry>
+  <RangeEntry minFrequency="890000000" maxFrequency="942000000" color="9067D03F" mode="NFM" step="100000">RFID (SRD), Nespecifikované SRD, Radary GPR/WPR (SRD), Mobilní sítě, RMR, SRD v datových sítích</RangeEntry>
+  <RangeEntry minFrequency="942000000" maxFrequency="960000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="960000000" maxFrequency="1164000000" color="9000FFFF" mode="NFM" step="100000">Letecké komunikace, Radary GPR/WPR (SRD), DME</RangeEntry>
+  <RangeEntry minFrequency="1164000000" maxFrequency="1215000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), DME, Družicové navigační systémy</RangeEntry>
+  <RangeEntry minFrequency="1215000000" maxFrequency="1240000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Aktivní čidla (na družicích), Družicové navigační systémy</RangeEntry>
+  <RangeEntry minFrequency="1240000000" maxFrequency="1300000000" color="A0C40111" mode="NFM" step="100000">HAM 1240MHz, Družicové amatérské vysílání, Radary GPR/WPR (SRD), Meteo radary, Aktivní čidla (na družicích), Družicové navigační systémy</RangeEntry>
+  <RangeEntry minFrequency="1300000000" maxFrequency="1350000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Radiolokace (civilní)</RangeEntry>
+  <RangeEntry minFrequency="1350000000" maxFrequency="1400000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pasivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="1400000000" maxFrequency="1427000000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pasivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="1427000000" maxFrequency="1429000000" color="A0DA71E6" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1429000000" maxFrequency="1452000000" color="70A58C1C" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1452000000" maxFrequency="1492000000" color="A0648BC0" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1492000000" maxFrequency="1518000000" color="90A58C1C" mode="NFM" step="100000">Pohyblivé spoje a sítě, Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1518000000" maxFrequency="1525000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1525000000" maxFrequency="1530000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1530000000" maxFrequency="1535000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1535000000" maxFrequency="1559000000" color="90A58C1C" mode="NFM" step="100000">SAR (komunikace), Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1559000000" maxFrequency="1610000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Družicové navigační systémy</RangeEntry>
+  <RangeEntry minFrequency="1610000000" maxFrequency="1610600000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), S-PCS, Letecká radionavigace</RangeEntry>
+  <RangeEntry minFrequency="1610600000" maxFrequency="1613800000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, S-PCS, Letecká radionavigace</RangeEntry>
+  <RangeEntry minFrequency="1613800000" maxFrequency="1621350000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecké aplikace, S-PCS, Letecká radionavigace</RangeEntry>
+  <RangeEntry minFrequency="1621350000" maxFrequency="1626500000" color="9000FFFF" mode="NFM" step="100000">Letecké aplikace, S-PCS, Letecká radionavigace</RangeEntry>
+  <RangeEntry minFrequency="1626500000" maxFrequency="1645500000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="1645500000" maxFrequency="1646500000" color="A0A58C1C" mode="NFM" step="100000">SAR (komunikace), Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1646500000" maxFrequency="1656500000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecké aplikace, Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="1656500000" maxFrequency="1660000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="1660000000" maxFrequency="1660500000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pozemské stanice družicové pohyblivé služby</RangeEntry>
+  <RangeEntry minFrequency="1660500000" maxFrequency="1668000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pasivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="1668000000" maxFrequency="1668400000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pasivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="1668400000" maxFrequency="1670000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie</RangeEntry>
+  <RangeEntry minFrequency="1670000000" maxFrequency="1675000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1675000000" maxFrequency="1690000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1690000000" maxFrequency="1700000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="1700000000" maxFrequency="1710000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pevné spoje bod-bod</RangeEntry>
+  <RangeEntry minFrequency="1710000000" maxFrequency="1770000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="1770000000" maxFrequency="1790000000" color="A0A58C1C" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="1790000000" maxFrequency="1900000000" color="90A58C1C" mode="NFM" step="100000">Bezdrátový přenos zvuku (SRD), Radary GPR/WPR (SRD), Mobilní sítě, Pevné spoje bod-více bodů, DECT</RangeEntry>
+  <RangeEntry minFrequency="1900000000" maxFrequency="1930000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="1930000000" maxFrequency="1970000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě, Aktivní čidla (na družicích)</RangeEntry>
+  <RangeEntry minFrequency="1970000000" maxFrequency="1980000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="1980000000" maxFrequency="2010000000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), CGC</RangeEntry>
+  <RangeEntry minFrequency="2010000000" maxFrequency="2025000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="2025000000" maxFrequency="2110000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SAP/SAB</RangeEntry>
+  <RangeEntry minFrequency="2110000000" maxFrequency="2120000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2120000000" maxFrequency="2170000000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2170000000" maxFrequency="2200000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), CGC</RangeEntry>
+  <RangeEntry minFrequency="2200000000" maxFrequency="2290000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="2290000000" maxFrequency="2300000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD)</RangeEntry>
+  <RangeEntry minFrequency="2300000000" maxFrequency="2450000000" color="A0C40111" mode="NFM" step="100000">HAM 2300MHz, RFID (SRD), ISM, Družicové amatérské vysílání, Nespecifikované SRD, Radary GPR/WPR (SRD), SAP/SAB, Letecká telemetrie/dálkové ovládání, Širokopásmový přenos dat</RangeEntry>
+  <RangeEntry minFrequency="2450000000" maxFrequency="2483500000" color="807FF464" mode="NFM" step="100000">RFID (SRD), ISM, Nespecifikované SRD, Radary GPR/WPR (SRD), Širokopásmový přenos dat</RangeEntry>
+  <RangeEntry minFrequency="2483500000" maxFrequency="2500000000" color="70EBF243" mode="NFM" step="100000">ISM, Radary GPR/WPR (SRD), Lékařské implantáty (SRD), S-PCS, SRD monitorování a sběr dat</RangeEntry>
+  <RangeEntry minFrequency="2500000000" maxFrequency="2520000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2520000000" maxFrequency="2655000000" color="90DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2655000000" maxFrequency="2670000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2670000000" maxFrequency="2690000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Mobilní sítě</RangeEntry>
+  <RangeEntry minFrequency="2690000000" maxFrequency="2700000000" color="A0DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie</RangeEntry>
+  <RangeEntry minFrequency="2700000000" maxFrequency="2900000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD</RangeEntry>
+  <RangeEntry minFrequency="2900000000" maxFrequency="3100000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD</RangeEntry>
+  <RangeEntry minFrequency="3100000000" maxFrequency="3300000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, SRD</RangeEntry>
+  <RangeEntry minFrequency="3300000000" maxFrequency="3400000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, SRD</RangeEntry>
+  <RangeEntry minFrequency="3400000000" maxFrequency="3600000000" color="A0C40111" mode="NFM" step="100000">HAM 3400MHz, Radary GPR/WPR (SRD), SRD, MFCN - sítě elektronických komunikací</RangeEntry>
+  <RangeEntry minFrequency="3600000000" maxFrequency="3800000000" color="80DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD, MFCN - sítě elektronických komunikací</RangeEntry>
+  <RangeEntry minFrequency="3800000000" maxFrequency="4200000000" color="70DA71E6" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD, Pevné spoje bod-bod</RangeEntry>
+  <RangeEntry minFrequency="4200000000" maxFrequency="4400000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Výškoměry, SRD UWB aplikace</RangeEntry>
+  <RangeEntry minFrequency="4400000000" maxFrequency="4500000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pevné spoje, SRD UWB aplikace</RangeEntry>
+  <RangeEntry minFrequency="4500000000" maxFrequency="4800000000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Pevné spoje, SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="4800000000" maxFrequency="4990000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pevné spoje, SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="4990000000" maxFrequency="5000000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pevné spoje, SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5000000000" maxFrequency="5010000000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecká radionavigace, SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5010000000" maxFrequency="5030000000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecká radionavigace, SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5030000000" maxFrequency="5091000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR, MLS</RangeEntry>
+  <RangeEntry minFrequency="5091000000" maxFrequency="5150000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Spojení na ploše letiště, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, MLS</RangeEntry>
+  <RangeEntry minFrequency="5150000000" maxFrequency="5250000000" color="9000FFFF" mode="NFM" step="100000">Radary GPR/WPR (SRD), Letecká telemetrie/dálkové ovládání, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, MLS, Pozemské stanice družicové pevné služby, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5250000000" maxFrequency="5255000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Meteo radary, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5255000000" maxFrequency="5350000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5350000000" maxFrequency="5460000000" color="A0A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5460000000" maxFrequency="5470000000" color="90A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5470000000" maxFrequency="5570000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5570000000" maxFrequency="5650000000" color="70A58C1C" mode="NFM" step="100000">Radary GPR/WPR (SRD), Meteo radary, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5650000000" maxFrequency="5725000000" color="A0C40111" mode="NFM" step="100000">HAM 5650MHz, Družicové amatérské vysílání, Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5725000000" maxFrequency="5830000000" color="A0C40111" mode="NFM" step="100000">HAM 5725MHz, ISM, Nespecifikované SRD, Radary GPR/WPR (SRD), Meteo radary, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5830000000" maxFrequency="5850000000" color="A0C40111" mode="NFM" step="100000">HAM 5830MHz, ISM, Družicové amatérské vysílání, Nespecifikované SRD, Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR, WAS/RLAN</RangeEntry>
+  <RangeEntry minFrequency="5850000000" maxFrequency="5925000000" color="707FF464" mode="NFM" step="100000">ISM, Nespecifikované SRD, Radary GPR/WPR (SRD), SRD UWB aplikace, SRD Radarové hladinoměry TLPR</RangeEntry>
+  <RangeEntry minFrequency="5925000000" maxFrequency="6700000000" color="A07FF464" mode="NFM" step="100000">Radary GPR/WPR (SRD), Radioastronomie, Pasivní čidla (na družicích), Pevné spoje bod-bod, SRD UWB aplikace, SRD Radarové hladinoměry TLPR, Pozemské stanice družicové pevné služby, WAS/RLAN, SRD Radarové hladinoměry LPR</RangeEntry>
+</ArrayOfRangeEntry>
